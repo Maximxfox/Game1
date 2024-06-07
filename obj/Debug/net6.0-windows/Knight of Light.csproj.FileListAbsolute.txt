@@ -1,0 +1,55 @@
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.csproj.AssemblyReference.cache
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.AssemblyInfoInputs.cache
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.AssemblyInfo.cs
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.csproj.CoreCompileInputs.cache
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Fonts\font.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\attack.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\attack2.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\death.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\hit.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\idle.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\jump.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\run.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\HeroAnimation\walk.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Music\1.wma
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Music\1.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Music\2.wma
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Music\2.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Objects\0.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Objects\1.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Objects\button.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Content\Objects\castle.xnb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Knight of Light.exe
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Knight of Light.deps.json
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Knight of Light.runtimeconfig.json
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Knight of Light.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Knight of Light.pdb
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\TiledSharp.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Mops\Desktop\Project1\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight o.6B3C8973.Up2Date
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.dll
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\refint\Knight of Light.dll
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.pdb
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\Knight of Light.genruntimeconfig.cache
+C:\Users\Mops\Desktop\Project1\obj\Debug\net6.0-windows\ref\Knight of Light.dll
